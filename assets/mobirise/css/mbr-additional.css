@@ -478,13 +478,13 @@ h6,
 #slider-3 P {
   text-align: left;
 }
-#social-buttons4-a .mbr-section-title,
-#social-buttons4-a .btn-social {
-  color: #fff;
-}
 #header6-b .mbr-section-title {
   color: #28262b;
 }
 #header6-b .mbr-section-text {
   color: #565656;
+}
+#social-buttons2-c .mbr-section-title,
+#social-buttons2-c .btn-social {
+  color: #232323;
 }
