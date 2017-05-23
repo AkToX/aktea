@@ -172,18 +172,16 @@
             "timeout": "10",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.6",
-                "overlayColor": "#000000",
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "",
+                "title": "GLOBAL COMMANDS",
                 "showText": true,
-                "text": "List des commands qui marchent sur tout servers",
+                "text": "Use .help for the moment<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -197,7 +195,7 @@
                 "showTitle": true,
                 "title": "KAYZAY COMMANDS",
                 "showText": true,
-                "text": "List kayzay commands... a faire",
+                "text": "Commands that work just on KayZay server",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
@@ -211,9 +209,23 @@
                 "showTitle": true,
                 "title": "NSFW COMMANDS",
                 "showText": true,
-                "text": "''list nsfw commands\"",
+                "text": "Use Tarik and Hifumi for the moment&nbsp;",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "MUSIC COMMANDS",
+                "showText": true,
+                "text": "Use Rythm for the moment",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
@@ -226,21 +238,7 @@
                 "showTitle": true,
                 "title": "MOD COMMANDS",
                 "showText": true,
-                "text": "\"list mod commands\"",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "MUSIC COMMANDS",
-                "showText": true,
-                "text": "\"list music commands",
+                "text": "In developpement",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -381,7 +379,7 @@
           },
           "title": "DONATE",
           "text": "Support me &amp; donate for making AkTeA better !",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://paypal.me/azaforce\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">I WANT HELP MY BEST DEVELOPPER :D</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://paypal.me/azaforce\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">I WANT HELP THE BEST DEVELOPPER EVER :D</a>"
         },
         {
           "_styles": {
