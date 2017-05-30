@@ -22,8 +22,9 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 27,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 28,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -181,7 +182,7 @@
                 "showTitle": true,
                 "title": "GLOBAL COMMANDS",
                 "showText": true,
-                "text": "Use .help for the moment<br>",
+                "text": "Use <b>.help</b> for the moment<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -209,7 +210,7 @@
                 "showTitle": true,
                 "title": "NSFW COMMANDS",
                 "showText": true,
-                "text": "Use Tarik and Hifumi for the moment&nbsp;",
+                "text": "Use Tarik and Hifumi for the moment &nbsp;<b>.nsfw</b>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
@@ -223,7 +224,7 @@
                 "showTitle": true,
                 "title": "MUSIC COMMANDS",
                 "showText": true,
-                "text": "Use Rythm for the moment",
+                "text": "Use Rythm for the moment<b> .help music</b>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -568,14 +569,14 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-q",
+          "_anchor": "features3-r",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -589,44 +590,56 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title1": "Rythm",
-          "subtitle1": "Music",
-          "caption1": "DESC",
-          "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title1": "RYTHM",
+          "subtitle1": "Music BOT",
+          "caption1": "Use <b><i>.help music</i></b> for help to Rythm bot",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title2": "Tarik",
-          "subtitle2": "NSFW",
-          "caption2": "DESC",
-          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "TARIK",
+          "subtitle2": "NSFW BOT",
+          "caption2": "Use <i>.<b>nsfw</b></i> for help to NSFW bots",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title3": "Hifumi",
-          "subtitle3": "NSFW",
-          "caption3": "DESC",
-          "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title3": "HIFUMI",
+          "subtitle3": "NSFW BOT",
+          "caption3": "Use .<b><i>nsfw</i></b> for help to NSFW bots",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
